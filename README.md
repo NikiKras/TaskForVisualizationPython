@@ -1,5 +1,5 @@
-# TaskForVisualizationPython
-Training case: visualize health insurance data with Python
+# TaskForVisualizationInPython
+Training case: visualize health insurance data with Python.
 # Case data
 There is a table «insurance.csv». It is taken from an open source - kaggle.com.  
 The table contains the patient data columns:    
@@ -12,8 +12,8 @@ The table contains the patient data columns:
 + charges — amount of insurance payment.
 # Case
 I am an analyst at a medical insurance company. My team is preparing a large study about the firm’s clients.  
-I agreed with the manager that i would study the data and bring useful schedules for the next meeting.
-# What i did:
+I agreed with the manager that I would study the data and bring useful schedules for the next meeting.
+# What I did:
 1. Imported Libraries
 2. Configured the chart display throughout the document.
 3. Downloaded insurance.csv dataset in Jupyter Notebook.
